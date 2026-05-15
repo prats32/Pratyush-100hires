@@ -4,7 +4,7 @@ Codex
 Git
 Steps:
 Downloaded Cursor
-Connected GitHub with cursor
+Connected GitHub with cursorgit stat
 Added Codex and Claude code extension in Cursor.
 Create a repository in GitHub
 Downloaded Git, cloned my repository in cursor
